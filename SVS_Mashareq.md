@@ -39,10 +39,9 @@ You may update, amend, or delete Your information at any time by signing in to Y
 
 Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
 
-<img align="left" src="https://github.com/keyking9988/SVS Mashareq/blob/main/splash_modified2.png" width="150" height="150"/>
+<img align="left" src="https://github.com/faresalaghbar/Privacy-policy/blob/main/SpectrumLogo.jpeg" width="150" height="150"/>
 <br>
-Majd Abo Kassab<br>
-President at SVS Mashareq.<br>
-Email: app.SVS Mashareq@gmail.com<br> 
+Spectrum It Solution<br>
+Email: ‫info@spectrumitsolution.com‬<br> 
 Amman, Jordan<br>
  
